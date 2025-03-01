@@ -1,0 +1,32 @@
+@import "tailwindcss";
+.fontStyle{
+    font-family: 'Comic Sans MS';
+}
+.quizBackGroundImage {
+    background-image: url('/b3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.quizBackGroundImage::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(2px);
+    z-index: 0;
+}
+
+.mainBackground{
+    background-image: url('/main2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*
+b3.jpg, 
+*/

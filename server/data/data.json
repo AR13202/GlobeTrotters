@@ -1,0 +1,1883 @@
+[
+  {
+      "city": "Los Angeles",
+      "country": "USA",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Los Angeles has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Los Angeles is popular worldwide."
+      ],
+      "trivia": [
+          "Los Angeles has a population of over 1445871 people.",
+          "One of the world's oldest structures can be found in Los Angeles."
+      ]
+  },
+  {
+      "city": "Paris",
+      "country": "France",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Paris has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Paris is popular worldwide."
+      ],
+      "trivia": [
+          "Paris has a population of over 4261875 people.",
+          "One of the world's oldest structures can be found in Paris."
+      ]
+  },
+  {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Tokyo has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Tokyo is popular worldwide."
+      ],
+      "trivia": [
+          "Tokyo has a population of over 10814505 people.",
+          "One of the world's oldest structures can be found in Tokyo."
+      ]
+  },
+  {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Rio de Janeiro has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Rio de Janeiro is popular worldwide."
+      ],
+      "trivia": [
+          "Rio de Janeiro has a population of over 10644613 people.",
+          "One of the world's oldest structures can be found in Rio de Janeiro."
+      ]
+  },
+  {
+      "city": "Mumbai",
+      "country": "India",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Mumbai has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Mumbai is popular worldwide."
+      ],
+      "trivia": [
+          "Mumbai has a population of over 5169704 people.",
+          "One of the world's oldest structures can be found in Mumbai."
+      ]
+  },
+  {
+      "city": "Berlin",
+      "country": "Germany",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Berlin has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Berlin is popular worldwide."
+      ],
+      "trivia": [
+          "Berlin has a population of over 17567711 people.",
+          "One of the world's oldest structures can be found in Berlin."
+      ]
+  },
+  {
+      "city": "Rome",
+      "country": "Italy",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Rome has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Rome is popular worldwide."
+      ],
+      "trivia": [
+          "Rome has a population of over 3442475 people.",
+          "One of the world's oldest structures can be found in Rome."
+      ]
+  },
+  {
+      "city": "London",
+      "country": "UK",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "London has hosted major international events like the Olympics and world expos.",
+          "A famous dish from London is popular worldwide."
+      ],
+      "trivia": [
+          "London has a population of over 17752533 people.",
+          "One of the world's oldest structures can be found in London."
+      ]
+  },
+  {
+      "city": "Sydney",
+      "country": "Australia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Sydney has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Sydney is popular worldwide."
+      ],
+      "trivia": [
+          "Sydney has a population of over 16059639 people.",
+          "One of the world's oldest structures can be found in Sydney."
+      ]
+  },
+  {
+      "city": "Toronto",
+      "country": "Canada",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Toronto has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Toronto is popular worldwide."
+      ],
+      "trivia": [
+          "Toronto has a population of over 16868408 people.",
+          "One of the world's oldest structures can be found in Toronto."
+      ]
+  },
+  {
+      "city": "Shanghai",
+      "country": "China",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Shanghai has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Shanghai is popular worldwide."
+      ],
+      "trivia": [
+          "Shanghai has a population of over 16841584 people.",
+          "One of the world's oldest structures can be found in Shanghai."
+      ]
+  },
+  {
+      "city": "Moscow",
+      "country": "Russia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Moscow has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Moscow is popular worldwide."
+      ],
+      "trivia": [
+          "Moscow has a population of over 13273037 people.",
+          "One of the world's oldest structures can be found in Moscow."
+      ]
+  },
+  {
+      "city": "Cape Town",
+      "country": "South Africa",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Cape Town has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Cape Town is popular worldwide."
+      ],
+      "trivia": [
+          "Cape Town has a population of over 10173845 people.",
+          "One of the world's oldest structures can be found in Cape Town."
+      ]
+  },
+  {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Mexico City has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Mexico City is popular worldwide."
+      ],
+      "trivia": [
+          "Mexico City has a population of over 2356471 people.",
+          "One of the world's oldest structures can be found in Mexico City."
+      ]
+  },
+  {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Buenos Aires has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Buenos Aires is popular worldwide."
+      ],
+      "trivia": [
+          "Buenos Aires has a population of over 13897181 people.",
+          "One of the world's oldest structures can be found in Buenos Aires."
+      ]
+  },
+  {
+      "city": "Barcelona",
+      "country": "Spain",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Barcelona has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Barcelona is popular worldwide."
+      ],
+      "trivia": [
+          "Barcelona has a population of over 701183 people.",
+          "One of the world's oldest structures can be found in Barcelona."
+      ]
+  },
+  {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Amsterdam has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Amsterdam is popular worldwide."
+      ],
+      "trivia": [
+          "Amsterdam has a population of over 13102108 people.",
+          "One of the world's oldest structures can be found in Amsterdam."
+      ]
+  },
+  {
+      "city": "Dubai",
+      "country": "UAE",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Dubai has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Dubai is popular worldwide."
+      ],
+      "trivia": [
+          "Dubai has a population of over 12281750 people.",
+          "One of the world's oldest structures can be found in Dubai."
+      ]
+  },
+  {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Bangkok has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Bangkok is popular worldwide."
+      ],
+      "trivia": [
+          "Bangkok has a population of over 4316674 people.",
+          "One of the world's oldest structures can be found in Bangkok."
+      ]
+  },
+  {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Istanbul has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Istanbul is popular worldwide."
+      ],
+      "trivia": [
+          "Istanbul has a population of over 11847579 people.",
+          "One of the world's oldest structures can be found in Istanbul."
+      ]
+  },
+  {
+      "city": "Seoul",
+      "country": "South Korea",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Seoul has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Seoul is popular worldwide."
+      ],
+      "trivia": [
+          "Seoul has a population of over 18505377 people.",
+          "One of the world's oldest structures can be found in Seoul."
+      ]
+  },
+  {
+      "city": "Stockholm",
+      "country": "Sweden",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Stockholm has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Stockholm is popular worldwide."
+      ],
+      "trivia": [
+          "Stockholm has a population of over 4923407 people.",
+          "One of the world's oldest structures can be found in Stockholm."
+      ]
+  },
+  {
+      "city": "Cairo",
+      "country": "Egypt",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Cairo has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Cairo is popular worldwide."
+      ],
+      "trivia": [
+          "Cairo has a population of over 10395696 people.",
+          "One of the world's oldest structures can be found in Cairo."
+      ]
+  },
+  {
+      "city": "Athens",
+      "country": "Greece",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Athens has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Athens is popular worldwide."
+      ],
+      "trivia": [
+          "Athens has a population of over 8723239 people.",
+          "One of the world's oldest structures can be found in Athens."
+      ]
+  },
+  {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Lisbon has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Lisbon is popular worldwide."
+      ],
+      "trivia": [
+          "Lisbon has a population of over 10932575 people.",
+          "One of the world's oldest structures can be found in Lisbon."
+      ]
+  },
+  {
+      "city": "Zurich",
+      "country": "Switzerland",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Zurich has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Zurich is popular worldwide."
+      ],
+      "trivia": [
+          "Zurich has a population of over 7796719 people.",
+          "One of the world's oldest structures can be found in Zurich."
+      ]
+  },
+  {
+      "city": "Singapore",
+      "country": "Singapore",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Singapore has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Singapore is popular worldwide."
+      ],
+      "trivia": [
+          "Singapore has a population of over 17703779 people.",
+          "One of the world's oldest structures can be found in Singapore."
+      ]
+  },
+  {
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Ho Chi Minh City has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Ho Chi Minh City is popular worldwide."
+      ],
+      "trivia": [
+          "Ho Chi Minh City has a population of over 8715408 people.",
+          "One of the world's oldest structures can be found in Ho Chi Minh City."
+      ]
+  },
+  {
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Jakarta has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Jakarta is popular worldwide."
+      ],
+      "trivia": [
+          "Jakarta has a population of over 13326894 people.",
+          "One of the world's oldest structures can be found in Jakarta."
+      ]
+  },
+  {
+      "city": "Auckland",
+      "country": "New Zealand",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Auckland has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Auckland is popular worldwide."
+      ],
+      "trivia": [
+          "Auckland has a population of over 10121212 people.",
+          "One of the world's oldest structures can be found in Auckland."
+      ]
+  },
+  {
+      "city": "Bogot\u00e1",
+      "country": "Colombia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Bogot\u00e1 has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Bogot\u00e1 is popular worldwide."
+      ],
+      "trivia": [
+          "Bogot\u00e1 has a population of over 17447966 people.",
+          "One of the world's oldest structures can be found in Bogot\u00e1."
+      ]
+  },
+  {
+      "city": "Lima",
+      "country": "Peru",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Lima has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Lima is popular worldwide."
+      ],
+      "trivia": [
+          "Lima has a population of over 11262343 people.",
+          "One of the world's oldest structures can be found in Lima."
+      ]
+  },
+  {
+      "city": "Manila",
+      "country": "Philippines",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Manila has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Manila is popular worldwide."
+      ],
+      "trivia": [
+          "Manila has a population of over 9803769 people.",
+          "One of the world's oldest structures can be found in Manila."
+      ]
+  },
+  {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Riyadh has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Riyadh is popular worldwide."
+      ],
+      "trivia": [
+          "Riyadh has a population of over 1751657 people.",
+          "One of the world's oldest structures can be found in Riyadh."
+      ]
+  },
+  {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Kuala Lumpur has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Kuala Lumpur is popular worldwide."
+      ],
+      "trivia": [
+          "Kuala Lumpur has a population of over 13580196 people.",
+          "One of the world's oldest structures can be found in Kuala Lumpur."
+      ]
+  },
+  {
+      "city": "Vienna",
+      "country": "Austria",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Vienna has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Vienna is popular worldwide."
+      ],
+      "trivia": [
+          "Vienna has a population of over 7565547 people.",
+          "One of the world's oldest structures can be found in Vienna."
+      ]
+  },
+  {
+      "city": "Brussels",
+      "country": "Belgium",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Brussels has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Brussels is popular worldwide."
+      ],
+      "trivia": [
+          "Brussels has a population of over 3863593 people.",
+          "One of the world's oldest structures can be found in Brussels."
+      ]
+  },
+  {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Copenhagen has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Copenhagen is popular worldwide."
+      ],
+      "trivia": [
+          "Copenhagen has a population of over 3100472 people.",
+          "One of the world's oldest structures can be found in Copenhagen."
+      ]
+  },
+  {
+      "city": "Oslo",
+      "country": "Norway",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Oslo has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Oslo is popular worldwide."
+      ],
+      "trivia": [
+          "Oslo has a population of over 2067554 people.",
+          "One of the world's oldest structures can be found in Oslo."
+      ]
+  },
+  {
+      "city": "Helsinki",
+      "country": "Finland",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Helsinki has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Helsinki is popular worldwide."
+      ],
+      "trivia": [
+          "Helsinki has a population of over 5955772 people.",
+          "One of the world's oldest structures can be found in Helsinki."
+      ]
+  },
+  {
+      "city": "Warsaw",
+      "country": "Poland",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Warsaw has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Warsaw is popular worldwide."
+      ],
+      "trivia": [
+          "Warsaw has a population of over 5942547 people.",
+          "One of the world's oldest structures can be found in Warsaw."
+      ]
+  },
+  {
+      "city": "Santiago",
+      "country": "Chile",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Santiago has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Santiago is popular worldwide."
+      ],
+      "trivia": [
+          "Santiago has a population of over 2197801 people.",
+          "One of the world's oldest structures can be found in Santiago."
+      ]
+  },
+  {
+      "city": "Dublin",
+      "country": "Ireland",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Dublin has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Dublin is popular worldwide."
+      ],
+      "trivia": [
+          "Dublin has a population of over 18469479 people.",
+          "One of the world's oldest structures can be found in Dublin."
+      ]
+  },
+  {
+      "city": "Prague",
+      "country": "Czech Republic",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Prague has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Prague is popular worldwide."
+      ],
+      "trivia": [
+          "Prague has a population of over 14977722 people.",
+          "One of the world's oldest structures can be found in Prague."
+      ]
+  },
+  {
+      "city": "Budapest",
+      "country": "Hungary",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Budapest has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Budapest is popular worldwide."
+      ],
+      "trivia": [
+          "Budapest has a population of over 6738657 people.",
+          "One of the world's oldest structures can be found in Budapest."
+      ]
+  },
+  {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Karachi has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Karachi is popular worldwide."
+      ],
+      "trivia": [
+          "Karachi has a population of over 2523467 people.",
+          "One of the world's oldest structures can be found in Karachi."
+      ]
+  },
+  {
+      "city": "Bucharest",
+      "country": "Romania",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Bucharest has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Bucharest is popular worldwide."
+      ],
+      "trivia": [
+          "Bucharest has a population of over 2248596 people.",
+          "One of the world's oldest structures can be found in Bucharest."
+      ]
+  },
+  {
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Kyiv has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Kyiv is popular worldwide."
+      ],
+      "trivia": [
+          "Kyiv has a population of over 10443111 people.",
+          "One of the world's oldest structures can be found in Kyiv."
+      ]
+  },
+  {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Dhaka has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Dhaka is popular worldwide."
+      ],
+      "trivia": [
+          "Dhaka has a population of over 5886780 people.",
+          "One of the world's oldest structures can be found in Dhaka."
+      ]
+  },
+  {
+      "city": "Lagos",
+      "country": "Nigeria",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Lagos has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Lagos is popular worldwide."
+      ],
+      "trivia": [
+          "Lagos has a population of over 14512363 people.",
+          "One of the world's oldest structures can be found in Lagos."
+      ]
+  },
+  {
+      "city": "Nairobi",
+      "country": "Kenya",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Nairobi has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Nairobi is popular worldwide."
+      ],
+      "trivia": [
+          "Nairobi has a population of over 8504474 people.",
+          "One of the world's oldest structures can be found in Nairobi."
+      ]
+  },
+  {
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Tel Aviv has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Tel Aviv is popular worldwide."
+      ],
+      "trivia": [
+          "Tel Aviv has a population of over 4658848 people.",
+          "One of the world's oldest structures can be found in Tel Aviv."
+      ]
+  },
+  {
+      "city": "Doha",
+      "country": "Qatar",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Doha has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Doha is popular worldwide."
+      ],
+      "trivia": [
+          "Doha has a population of over 11733239 people.",
+          "One of the world's oldest structures can be found in Doha."
+      ]
+  },
+  {
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Hong Kong has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Hong Kong is popular worldwide."
+      ],
+      "trivia": [
+          "Hong Kong has a population of over 14420179 people.",
+          "One of the world's oldest structures can be found in Hong Kong."
+      ]
+  },
+  {
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Almaty has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Almaty is popular worldwide."
+      ],
+      "trivia": [
+          "Almaty has a population of over 12313298 people.",
+          "One of the world's oldest structures can be found in Almaty."
+      ]
+  },
+  {
+      "city": "Marrakech",
+      "country": "Morocco",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Marrakech has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Marrakech is popular worldwide."
+      ],
+      "trivia": [
+          "Marrakech has a population of over 15354787 people.",
+          "One of the world's oldest structures can be found in Marrakech."
+      ]
+  },
+  {
+      "city": "Quito",
+      "country": "Ecuador",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Quito has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Quito is popular worldwide."
+      ],
+      "trivia": [
+          "Quito has a population of over 6973768 people.",
+          "One of the world's oldest structures can be found in Quito."
+      ]
+  },
+  {
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Colombo has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Colombo is popular worldwide."
+      ],
+      "trivia": [
+          "Colombo has a population of over 16110236 people.",
+          "One of the world's oldest structures can be found in Colombo."
+      ]
+  },
+  {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Beirut has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Beirut is popular worldwide."
+      ],
+      "trivia": [
+          "Beirut has a population of over 18992076 people.",
+          "One of the world's oldest structures can be found in Beirut."
+      ]
+  },
+  {
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Bratislava has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Bratislava is popular worldwide."
+      ],
+      "trivia": [
+          "Bratislava has a population of over 9499990 people.",
+          "One of the world's oldest structures can be found in Bratislava."
+      ]
+  },
+  {
+      "city": "Luxembourg City",
+      "country": "Luxembourg",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Luxembourg City has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Luxembourg City is popular worldwide."
+      ],
+      "trivia": [
+          "Luxembourg City has a population of over 13866201 people.",
+          "One of the world's oldest structures can be found in Luxembourg City."
+      ]
+  },
+  {
+      "city": "Belgrade",
+      "country": "Serbia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Belgrade has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Belgrade is popular worldwide."
+      ],
+      "trivia": [
+          "Belgrade has a population of over 13212105 people.",
+          "One of the world's oldest structures can be found in Belgrade."
+      ]
+  },
+  {
+      "city": "Zagreb",
+      "country": "Croatia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Zagreb has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Zagreb is popular worldwide."
+      ],
+      "trivia": [
+          "Zagreb has a population of over 16836826 people.",
+          "One of the world's oldest structures can be found in Zagreb."
+      ]
+  },
+  {
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Sofia has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Sofia is popular worldwide."
+      ],
+      "trivia": [
+          "Sofia has a population of over 1475571 people.",
+          "One of the world's oldest structures can be found in Sofia."
+      ]
+  },
+  {
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Ljubljana has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Ljubljana is popular worldwide."
+      ],
+      "trivia": [
+          "Ljubljana has a population of over 9870509 people.",
+          "One of the world's oldest structures can be found in Ljubljana."
+      ]
+  },
+  {
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Montevideo has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Montevideo is popular worldwide."
+      ],
+      "trivia": [
+          "Montevideo has a population of over 2300216 people.",
+          "One of the world's oldest structures can be found in Montevideo."
+      ]
+  },
+  {
+      "city": "San Jos\u00e9",
+      "country": "Costa Rica",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "San Jos\u00e9 has hosted major international events like the Olympics and world expos.",
+          "A famous dish from San Jos\u00e9 is popular worldwide."
+      ],
+      "trivia": [
+          "San Jos\u00e9 has a population of over 18476131 people.",
+          "One of the world's oldest structures can be found in San Jos\u00e9."
+      ]
+  },
+  {
+      "city": "Panama City",
+      "country": "Panama",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Panama City has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Panama City is popular worldwide."
+      ],
+      "trivia": [
+          "Panama City has a population of over 9073841 people.",
+          "One of the world's oldest structures can be found in Panama City."
+      ]
+  },
+  {
+      "city": "Asunci\u00f3n",
+      "country": "Paraguay",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Asunci\u00f3n has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Asunci\u00f3n is popular worldwide."
+      ],
+      "trivia": [
+          "Asunci\u00f3n has a population of over 10004912 people.",
+          "One of the world's oldest structures can be found in Asunci\u00f3n."
+      ]
+  },
+  {
+      "city": "La Paz",
+      "country": "Bolivia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "La Paz has hosted major international events like the Olympics and world expos.",
+          "A famous dish from La Paz is popular worldwide."
+      ],
+      "trivia": [
+          "La Paz has a population of over 2156591 people.",
+          "One of the world's oldest structures can be found in La Paz."
+      ]
+  },
+  {
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Reykjavik has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Reykjavik is popular worldwide."
+      ],
+      "trivia": [
+          "Reykjavik has a population of over 18502180 people.",
+          "One of the world's oldest structures can be found in Reykjavik."
+      ]
+  },
+  {
+      "city": "Valletta",
+      "country": "Malta",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Valletta has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Valletta is popular worldwide."
+      ],
+      "trivia": [
+          "Valletta has a population of over 13752976 people.",
+          "One of the world's oldest structures can be found in Valletta."
+      ]
+  },
+  {
+      "city": "Vilnius",
+      "country": "Lithuania",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Vilnius has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Vilnius is popular worldwide."
+      ],
+      "trivia": [
+          "Vilnius has a population of over 3795384 people.",
+          "One of the world's oldest structures can be found in Vilnius."
+      ]
+  },
+  {
+      "city": "Riga",
+      "country": "Latvia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Riga has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Riga is popular worldwide."
+      ],
+      "trivia": [
+          "Riga has a population of over 7898566 people.",
+          "One of the world's oldest structures can be found in Riga."
+      ]
+  },
+  {
+      "city": "Tallinn",
+      "country": "Estonia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Tallinn has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Tallinn is popular worldwide."
+      ],
+      "trivia": [
+          "Tallinn has a population of over 900498 people.",
+          "One of the world's oldest structures can be found in Tallinn."
+      ]
+  },
+  {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Yangon has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Yangon is popular worldwide."
+      ],
+      "trivia": [
+          "Yangon has a population of over 4253341 people.",
+          "One of the world's oldest structures can be found in Yangon."
+      ]
+  },
+  {
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Kathmandu has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Kathmandu is popular worldwide."
+      ],
+      "trivia": [
+          "Kathmandu has a population of over 7608394 people.",
+          "One of the world's oldest structures can be found in Kathmandu."
+      ]
+  },
+  {
+      "city": "Muscat",
+      "country": "Oman",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Muscat has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Muscat is popular worldwide."
+      ],
+      "trivia": [
+          "Muscat has a population of over 5648573 people.",
+          "One of the world's oldest structures can be found in Muscat."
+      ]
+  },
+  {
+      "city": "Manama",
+      "country": "Bahrain",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Manama has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Manama is popular worldwide."
+      ],
+      "trivia": [
+          "Manama has a population of over 18540588 people.",
+          "One of the world's oldest structures can be found in Manama."
+      ]
+  },
+  {
+      "city": "Nicosia",
+      "country": "Cyprus",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Nicosia has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Nicosia is popular worldwide."
+      ],
+      "trivia": [
+          "Nicosia has a population of over 1797123 people.",
+          "One of the world's oldest structures can be found in Nicosia."
+      ]
+  },
+  {
+      "city": "Tunis",
+      "country": "Tunisia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Tunis has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Tunis is popular worldwide."
+      ],
+      "trivia": [
+          "Tunis has a population of over 12120403 people.",
+          "One of the world's oldest structures can be found in Tunis."
+      ]
+  },
+  {
+      "city": "Algiers",
+      "country": "Algeria",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Algiers has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Algiers is popular worldwide."
+      ],
+      "trivia": [
+          "Algiers has a population of over 14703046 people.",
+          "One of the world's oldest structures can be found in Algiers."
+      ]
+  },
+  {
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Addis Ababa has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Addis Ababa is popular worldwide."
+      ],
+      "trivia": [
+          "Addis Ababa has a population of over 12305914 people.",
+          "One of the world's oldest structures can be found in Addis Ababa."
+      ]
+  },
+  {
+      "city": "Lusaka",
+      "country": "Zambia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Lusaka has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Lusaka is popular worldwide."
+      ],
+      "trivia": [
+          "Lusaka has a population of over 1771856 people.",
+          "One of the world's oldest structures can be found in Lusaka."
+      ]
+  },
+  {
+      "city": "Accra",
+      "country": "Ghana",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Accra has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Accra is popular worldwide."
+      ],
+      "trivia": [
+          "Accra has a population of over 17952128 people.",
+          "One of the world's oldest structures can be found in Accra."
+      ]
+  },
+  {
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Abidjan has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Abidjan is popular worldwide."
+      ],
+      "trivia": [
+          "Abidjan has a population of over 17598034 people.",
+          "One of the world's oldest structures can be found in Abidjan."
+      ]
+  },
+  {
+      "city": "Yaound\u00e9",
+      "country": "Cameroon",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Yaound\u00e9 has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Yaound\u00e9 is popular worldwide."
+      ],
+      "trivia": [
+          "Yaound\u00e9 has a population of over 8881807 people.",
+          "One of the world's oldest structures can be found in Yaound\u00e9."
+      ]
+  },
+  {
+      "city": "Kampala",
+      "country": "Uganda",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Kampala has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Kampala is popular worldwide."
+      ],
+      "trivia": [
+          "Kampala has a population of over 5284408 people.",
+          "One of the world's oldest structures can be found in Kampala."
+      ]
+  },
+  {
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Dar es Salaam has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Dar es Salaam is popular worldwide."
+      ],
+      "trivia": [
+          "Dar es Salaam has a population of over 18947598 people.",
+          "One of the world's oldest structures can be found in Dar es Salaam."
+      ]
+  },
+  {
+      "city": "Gaborone",
+      "country": "Botswana",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Gaborone has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Gaborone is popular worldwide."
+      ],
+      "trivia": [
+          "Gaborone has a population of over 1940161 people.",
+          "One of the world's oldest structures can be found in Gaborone."
+      ]
+  },
+  {
+      "city": "Maputo",
+      "country": "Mozambique",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Maputo has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Maputo is popular worldwide."
+      ],
+      "trivia": [
+          "Maputo has a population of over 18255254 people.",
+          "One of the world's oldest structures can be found in Maputo."
+      ]
+  },
+  {
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Tbilisi has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Tbilisi is popular worldwide."
+      ],
+      "trivia": [
+          "Tbilisi has a population of over 8708902 people.",
+          "One of the world's oldest structures can be found in Tbilisi."
+      ]
+  },
+  {
+      "city": "Yerevan",
+      "country": "Armenia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Yerevan has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Yerevan is popular worldwide."
+      ],
+      "trivia": [
+          "Yerevan has a population of over 18215568 people.",
+          "One of the world's oldest structures can be found in Yerevan."
+      ]
+  },
+  {
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Baku has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Baku is popular worldwide."
+      ],
+      "trivia": [
+          "Baku has a population of over 4060993 people.",
+          "One of the world's oldest structures can be found in Baku."
+      ]
+  },
+  {
+      "city": "Ulaanbaatar",
+      "country": "Mongolia",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Ulaanbaatar has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Ulaanbaatar is popular worldwide."
+      ],
+      "trivia": [
+          "Ulaanbaatar has a population of over 11536074 people.",
+          "One of the world's oldest structures can be found in Ulaanbaatar."
+      ]
+  },
+  {
+      "city": "Minsk",
+      "country": "Belarus",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Minsk has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Minsk is popular worldwide."
+      ],
+      "trivia": [
+          "Minsk has a population of over 2923099 people.",
+          "One of the world's oldest structures can be found in Minsk."
+      ]
+  },
+  {
+      "city": "Suva",
+      "country": "Fiji",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Suva has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Suva is popular worldwide."
+      ],
+      "trivia": [
+          "Suva has a population of over 14022323 people.",
+          "One of the world's oldest structures can be found in Suva."
+      ]
+  },
+  {
+      "city": "Port Moresby",
+      "country": "Papua New Guinea",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Port Moresby has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Port Moresby is popular worldwide."
+      ],
+      "trivia": [
+          "Port Moresby has a population of over 19957107 people.",
+          "One of the world's oldest structures can be found in Port Moresby."
+      ]
+  },
+  {
+      "city": "Antananarivo",
+      "country": "Madagascar",
+      "clues": [
+          "Known for its iconic landmarks and cultural history.",
+          "Has a unique blend of modern and historical architecture.",
+          "Tourists visit for its vibrant markets and street food.",
+          "A major economic and cultural hub in the region.",
+          "The nightlife is famous for its energy and diversity."
+      ],
+      "fun_fact": [
+          "Antananarivo has hosted major international events like the Olympics and world expos.",
+          "A famous dish from Antananarivo is popular worldwide."
+      ],
+      "trivia": [
+          "Antananarivo has a population of over 12036704 people.",
+          "One of the world's oldest structures can be found in Antananarivo."
+      ]
+  }
+]
