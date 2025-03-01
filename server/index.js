@@ -8,6 +8,7 @@ const { Server } = require('socket.io');
 const { getRandomQuestions } = require('./utils/getRandomQuestions');
 const { getUniqueRoomId } = require('./utils/getUniqueRoomId');
 const {generateQuestionSequence} = require('./utils/generateQuestionSequence');
+require('dotenv').config();
 const port = 4000;
 
 //data
@@ -26,7 +27,7 @@ app.get('/data',(req,res)=>{
     res.json({users,rooms})
 })
 // console.log(data.length);
-const allowedOrigins = ['http://localhost:5173'];
+const allowedOrigins = ['http://localhost:5173',process.env.CLIENT_URL];
 
 app.use(cors({
     origin: function (origin, callback) {

@@ -8,9 +8,10 @@ import gameStore from './store/gameStore';
 import Join from './pages/Join';
 function App() {
   const store = gameStore();
+  console.log(import.meta.env.VITE_SERVER_URL)
   useEffect(() => {
     const isLocalhost = window.location.hostname === 'localhost';
-    const socket = io(isLocalhost?'http://localhost:4000':'http://localhost:4000');
+    const socket = io(isLocalhost?'http://localhost:4000':import.meta.env.VITE_SERVER_URL);
     console.log("socket Connected --> ",socket);
     store.setSocket(socket)
     if(socket && socket.id){
