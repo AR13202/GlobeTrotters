@@ -27,7 +27,8 @@ app.get('/data',(req,res)=>{
     res.json({users,rooms})
 })
 // console.log(data.length);
-const allowedOrigins = ['http://localhost:5173',process.env.CLIENT_URL];
+console.log(process.env.CLIENT_URL)
+const allowedOrigins = [process.env.CLIENT_URL,'http://localhost:5173'];
 
 app.use(cors({
     origin: function (origin, callback) {
