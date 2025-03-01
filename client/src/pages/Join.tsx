@@ -10,7 +10,7 @@ const Join = () => {
     const navigate = useNavigate();
     const [users,setUsers] = useState<string[]>([]);
     const updateRoomMembers = useCallback((data:userType[],socketId:string)=>{
-            console.log("got room members",data,socketId);
+            // console.log("got room members",data,socketId);
             if(socketId==store.socket.id){
                 store.setRoomMembers(data);
             }
@@ -32,7 +32,7 @@ const Join = () => {
                 }else{
                     if(room){
                          store.setRoomId(room);
-                         console.log("users",data.users);
+                         // console.log("users",data.users);
                          setUsers(data.users);
                     }
                 }
@@ -76,13 +76,13 @@ const Join = () => {
         user.username = temp;
         user.score = 0;
         user.socketId = store.socket.id || "";
-        console.log(user.username)
+        // console.log(user.username)
         store.setUserDetails(user);
         (form.elements.namedItem("username") as HTMLInputElement).value = "";
-        console.log("Form Submitted");
+        // console.log("Form Submitted");
         const socket = store.socket;
         if(socket){
-            console.log("joiningroom....");
+            // console.log("joiningroom....");
             socket.emit("getRoomMembers",room,user.username)
             socket.emit("join-room",room,user.username,socket.id);
             navigate(`/quiz?id=${room}`);

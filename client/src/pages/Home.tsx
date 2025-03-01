@@ -10,13 +10,13 @@ const Home = () => {
     const socket = store.socket;
     if(socket && socket.id){
       socket.on("room-created", (roomId) => {
-      console.log("room-created",roomId);
+      // console.log("room-created",roomId);
       navigate(`/quiz?id=${roomId}`);
       store.setRoomId(roomId);
     });
     return (()=>{
       socket.off("room-created",(roomId) => {
-        console.log("room-created",roomId);
+        // console.log("room-created",roomId);
         navigate(`/quiz?id=${roomId}`);
         store.setRoomId(roomId);
       });
@@ -32,10 +32,10 @@ const Home = () => {
     user.username = temp;
     user.score = 0;
     user.socketId = store.socket.id || "";
-    console.log(user)
+    // console.log(user)
     store.setUserDetails(user);
     (form.elements.namedItem("username") as HTMLInputElement).value = "";
-    console.log("Form Submitted");
+    // console.log("Form Submitted");
     store.socket.emit("create-room",user.username);
   };
   return (

@@ -50,8 +50,8 @@ const Quiz = () => {
     },[store])
 
     useEffect(()=>{
-        const roomId = params.get("id");
-        console.log("roomId",roomId);
+        // const roomId = params.get("id");
+        // console.log("roomId",roomId);
         QRCode.toDataURL(newURL)
         .then((url:string) => {
             setQRcode(url);
@@ -67,7 +67,7 @@ const Quiz = () => {
     }
 
     const addNewMember = useCallback((data:{username:string,score:number,socketId:string,res:string}) => {
-        console.log("new user joined",data);
+        // console.log("new user joined",data);
         const temp = store.roomMembers;
         temp.push({
             username:data.username,
@@ -123,7 +123,7 @@ const Quiz = () => {
         })
     },[addNewMember, handleGetQuestion, updateRoomMemberScore, store.socket, detailForNewUser])
 
-    console.log("store.userDetails",store.userDetails)
+    // console.log("store.userDetails",store.userDetails)
   return (
     <div className="flex flex-col lg:flex-row w-screen h-screen items-center justify-center bg-[#0a092d] relative">
         <div className={`relative z-11 flex flex-col gap-10 bg-white  ${!showLeaderboard ? 'lg:w-0 h-0': 'lg:w-1/4 lg:px-2 h-full w-full z-10'} transition-all duration-500 lg:h-full py-2 2xl:py-4`}>

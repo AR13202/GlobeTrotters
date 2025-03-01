@@ -8,7 +8,7 @@ import gameStore from './store/gameStore';
 import Join from './pages/Join';
 function App() {
   const store = gameStore();
-  console.log(import.meta.env.VITE_SERVER_URL)
+  // console.log(import.meta.env.VITE_SERVER_URL)
   useEffect(() => {
     const isLocalhost = window.location.hostname === 'localhost';
     const socket = io(isLocalhost?'http://localhost:4000':import.meta.env.VITE_SERVER_URL);
@@ -25,7 +25,7 @@ function App() {
 
     return (()=>{
       socket.disconnect();
-      console.log("<---Socket Disconnected--->");
+      // console.log("<---Socket Disconnected--->");
     });
   }, []);
   return (
