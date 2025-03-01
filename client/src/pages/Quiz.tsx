@@ -5,7 +5,7 @@ import { useNavigate, useSearchParams } from "react-router-dom";
 import gameStore from "../store/gameStore";
 import QRCode from 'qrcode';
 import QRCodePopUp from "../components/QRCodePopUp";
-import { questionType } from "../types/types";
+import { questionType, userType } from "../types/types";
 import CorrectAnsPopUp from "../components/CorrectAnsPopUp";
 import IncorrectAnsPopUp from "../components/IncorrectAnsPopUp";
 const Quiz = () => {
@@ -74,6 +74,7 @@ const Quiz = () => {
             score:data.score,
             socketId:data.socketId
         });
+        store.socket.emit('send-detail-to-new-user',{username:store.userDetails.username,score:store.userDetails.score,socketId:store.socket.id,roomId:store.roomId})
         store.setRoomMembers(temp);
     },[store])
 
@@ -101,16 +102,26 @@ const Quiz = () => {
         store.setRoomMembers(roomMembers);
     },[store])
 
+    const detailForNewUser = useCallback((data:userType)=>{
+        const members = store.roomMembers;
+        if(!members.find(mem=>mem.socketId==data.socketId)){
+            members.push(data);
+            store.setRoomMembers(members);
+        }
+    },[store])
+
     useEffect(()=>{
         store.socket.on("user-joined-broadcast",addNewMember);
         store.socket.on('question',handleGetQuestion);
         store.socket.on('update-score-broadcast',updateRoomMemberScore)
+        store.socket.on('details-for-new-user',detailForNewUser);
         return(()=>{
+            store.socket.off('details-for-new-user',detailForNewUser);
             store.socket.off('update-score-broadcast',updateRoomMemberScore)
             store.socket.off('question',handleGetQuestion);
             store.socket.off("user-joined-broadcast",addNewMember);
         })
-    },[addNewMember, handleGetQuestion, updateRoomMemberScore, store.socket])
+    },[addNewMember, handleGetQuestion, updateRoomMemberScore, store.socket, detailForNewUser])
 
     console.log("store.userDetails",store.userDetails)
   return (

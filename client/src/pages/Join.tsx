@@ -14,7 +14,14 @@ const Join = () => {
             if(socketId==store.socket.id){
                 store.setRoomMembers(data);
             }
-        },[store])
+    },[store])
+    const detailForNewUser = useCallback((data:userType)=>{
+        const members = store.roomMembers;
+        if(!members.find(mem=>mem.socketId==data.socketId)){
+            members.push(data);
+            store.setRoomMembers(members);
+        }
+    },[store])
     useEffect(()=>{
         const socket = store.socket;
         if(socket && socket.id){
@@ -31,8 +38,9 @@ const Join = () => {
                 }
             });
             store.socket.on("room-members",updateRoomMembers);
-            
+            store.socket.on('details-for-new-user',detailForNewUser);
             return (()=>{
+                store.socket.off('details-for-new-user',detailForNewUser);
                 store.socket.off("room-members",updateRoomMembers);
                 socket.off("room-validated",(data) => {
                     if(data.res=="failed"){
@@ -47,7 +55,7 @@ const Join = () => {
                 });
             })
         }
-    },[navigate, room, store, store.socket, updateRoomMembers])
+    },[detailForNewUser, navigate, room, store, store.socket, updateRoomMembers])
     if(!params.get('id')){
         return <div>incorrect URL missing room ID</div>
     }else if(params.get('id')){

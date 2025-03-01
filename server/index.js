@@ -148,6 +148,10 @@ io.on('connection', (socket) => {
         })
     })
 
+    socket.on('send-detail-to-new-user',({username,score,socketId,roomId})=>{
+        socket.broadcast.to(roomId).emit('details-for-new-user',{username,score,socketId})
+    })
+
     socket.on('validate-roomId',(roomId)=>{
         const room = rooms.find(room => room.roomId === roomId);
         if(room){
