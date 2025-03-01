@@ -39,7 +39,7 @@ const Home = () => {
     store.socket.emit("create-room",user.username);
   };
   return (
-    <div className="flex w-screen h-screen items-center justify-center gap-10 mainBackground">
+    <div className="flex w-screen h-screen items-center justify-center gap-10 mainBackground relative">
       <div className="flex justify-center items-center flex-col gap-5 bg-slate-100 p-10 opacity-95 rounded-xl">
         <h1 className="text-[35px] font-extrabold fontStyle">GlobeTrotters</h1>
         <form onSubmit={(e)=>formSubmit(e)} className="flex  flex-col justify-center items-center gap-2">
@@ -49,6 +49,7 @@ const Home = () => {
             </button>
         </form>
       </div>
+      <div className={`${store.socket.id ? 'bg-green-300 text-green-800':'bg-red-300 text-red-800'} opacity-80 absolute bottom-2 right-2 z-3 px-3 py-1 rounded-md `}>{store.socket.id? 'server started...':'server starting, refresh in a minute...'}</div>
     </div>
   )
 }
