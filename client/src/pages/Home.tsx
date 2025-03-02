@@ -24,6 +24,7 @@ const Home = () => {
   }
   },[navigate, store, store.socket])
 
+
   const formSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const user = store.userDetails;
@@ -49,7 +50,6 @@ const Home = () => {
             </button>
         </form>
       </div>
-      <div className={`${store.socket.id ? 'bg-green-300 text-green-800':'bg-red-300 text-red-800'} opacity-80 absolute bottom-2 right-2 z-3 px-3 py-1 rounded-md `}>{store.socket.id? 'server started...':'server starting, refresh in a minute...'}</div>
     </div>
   )
 }

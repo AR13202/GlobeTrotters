@@ -16,7 +16,7 @@ const IncorrectAnsPopUp = ({funFact, correctAns}:{funFact:string,correctAns:stri
         <img src={getRandomItem(imagesArr)} className="w-full aspect-4/3 p-3 "/>
         <div>Correct Answer is </div>
         <h1 className="text-[40px] font-extrabold text-center">{correctAns}</h1>
-        <div className="text-red-700 font-bold">Your answer is correct</div>
+        <div className="text-red-700 font-bold">Your answer is incorrect</div>
       </div>
       <div className="lg:w-1/2 flex flex-col gap-10 2xl:text-xl">
         <div className="flex flex-col gap-4 items-center">

@@ -127,7 +127,7 @@ const Quiz = () => {
   return (
     <div className="flex flex-col lg:flex-row w-screen h-screen items-center justify-center bg-[#0a092d] relative">
         <div className={`relative z-11 flex flex-col gap-10 bg-white  ${!showLeaderboard ? 'lg:w-0 h-0': 'lg:w-1/4 lg:px-2 h-full w-full z-10'} transition-all duration-500 lg:h-full py-2 2xl:py-4`}>
-            <div className={`hover:underline cursor-pointer flex border-b border-gray-400 items-center fontStyle gap-1 ${!showLeaderboard && 'hidden' }`} onClick={()=>!quizCompleted && setShowLeaderboard(false)}> 
+            <div className={`hover:underline cursor-pointer hidden lg:flex border-b border-gray-400 items-center fontStyle gap-1 ${!showLeaderboard && 'hidden' }`} onClick={()=>!quizCompleted && setShowLeaderboard(false)}> 
                 {!quizCompleted ? <>
                 <img src="/rightArrowBlack.png" className="w-7 h-7 lg:rotate-180 -rotate-90"/>
                 <div className="text-[14px] 2xl:text-xl">Hide leaderboard</div>
@@ -141,13 +141,22 @@ const Quiz = () => {
                     <div className="h-full flex justify-center w-full">
                         <LeaderBoard scores={store.roomMembers} userScore={{...store.userDetails}}/>
                     </div>
-                    {
-                    !quizCompleted ? <div className="flex justify-center fontStyle text-[14px] 2xl:text-xl">
-                        <button className="border p-3 rounded-md bg-blue-800 text-white" onClick={()=>setShowSharePopup(true)}>Play with your friends</button>
+                    <div className={`hover:underline cursor-pointer flex lg:hidden mx-auto items-center fontStyle gap-1 ${!showLeaderboard && 'hidden' }`} onClick={()=>!quizCompleted && setShowLeaderboard(false)}> 
+                    {!quizCompleted ? 
+                        <>
+                            <img src="/rightArrowBlack.png" className="w-7 h-7 lg:rotate-180 -rotate-90"/>
+                            <div className="text-[14px] 2xl:text-xl">Hide leaderboard</div>
+                        </>
+                        :<div className="mx-auto">You have completed the quiz</div>
+                    }
                     </div>
-                    :<div className="flex justify-center fontStyle text-[14px] 2xl:text-xl">
-                        <button className="border p-3 rounded-md bg-blue-800 text-white" onClick={()=>quitGame()}>Finish</button>
-                    </div>
+                    {!quizCompleted ? 
+                        <div className="flex justify-center fontStyle text-[14px] 2xl:text-xl">
+                            <button className="border p-3 rounded-md bg-blue-800 text-white" onClick={()=>setShowSharePopup(true)}>Play with your friends</button>
+                        </div>
+                        :<div className="flex justify-center fontStyle text-[14px] 2xl:text-xl">
+                            <button className="border p-3 rounded-md bg-blue-800 text-white" onClick={()=>quitGame()}>Finish</button>
+                        </div>
                     }
                 </>
             }
